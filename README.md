@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @raya1232000
-- 👀 I’m interested in Creating new NFT's and of course art in any form
-- 🌱 I’m currently learning an how to create an Entire NFT Collection & mint
-- 💞️ I’m looking to collaborate on Entire NFT Collection & mint
+- I am currently studing how to program in Python using Object Orented Programing "OOP".
+- I plan to look for projects I can program for profit.
+- I live in Florida, Broward County.
+- I am looking for advice on which are I should study in.
 - 📫 How to reach me raya1232000@gmail.com
 
 <!---
-raya1232000/raya1232000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+raya1232000/RayA1232000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
